@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in Python
 
-The purpose of this code is to study and test **Data Structures and Algorithms**.
+This project contains codes for studying **Data Structures and Algorithms**.
 
 Each file contains independent codes. 
 
